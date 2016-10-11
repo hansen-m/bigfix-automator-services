@@ -51,7 +51,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>imageType</key>
-					<string>TIFF</string>
+					<string>PNG</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.ChangeImageType</string>
@@ -101,8 +101,6 @@
 						<string>0</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -251,7 +249,7 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>74BCD807-C024-4B58-806F-89E35CA50D50</key>
+		<key>BF0135BE-B219-46EF-8990-4F70FCBDC4DC</key>
 		<dict>
 			<key>from</key>
 			<string>1AED59C8-973F-4648-A48D-43D29D4C1446 - 1AED59C8-973F-4648-A48D-43D29D4C1446</string>
